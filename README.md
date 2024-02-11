@@ -1,5 +1,4 @@
-# Trabalhando-com-Machine-Learning-na-Pratica-no-Azure-ML
-Trabalhando com Machine Learning na Prática no Azure ML | Projeto DIO | Bootcamp Microsoft Azure AI Fundamentals
+# Trabalhando com Machine Learning na Prática no Azure ML | Projeto DIO | Bootcamp Microsoft Azure AI Fundamentals
 
 ## 1. Passo a passo 
 
