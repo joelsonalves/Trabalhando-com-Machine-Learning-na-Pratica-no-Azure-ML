@@ -11,6 +11,36 @@ Segui o passo a passo disponível em: https://microsoftlearning.github.io/mslear
 
 ## 4. Realização de testes
 
+### 4.1. Entrada
+{
+  "Inputs": { 
+    "data": [
+      {
+        "day": 1,
+        "mnth": 1,   
+        "year": 2022,
+        "season": 2,
+        "holiday": 0,
+        "weekday": 1,
+        "workingday": 1,
+        "weathersit": 2, 
+        "temp": 0.3, 
+        "atemp": 0.3,
+        "hum": 0.3,
+        "windspeed": 0.3 
+      }
+    ]    
+  },   
+  "GlobalParameters": 1.0
+}
+
+### 4.2. Saída
+{
+  "Results": [
+    351.3297544158021
+  ]
+}
+
 1. Crie um novo repositório no github com um nome a sua preferência
 2. Crie um modelo de previsão com seus devidos pontos de extremidade configurados
 3. Escreva o passo a passo desse processo em um readme.md de como você chegou nessa etapa
