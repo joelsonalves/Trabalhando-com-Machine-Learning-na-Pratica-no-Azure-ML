@@ -1,27 +1,29 @@
 # Trabalhando-com-Machine-Learning-na-Pratica-no-Azure-ML
-Trabalhando com Machine Learning na Prática no Azure ML
+Trabalhando com Machine Learning na Prática no Azure ML | Projeto DIO | Bootcamp Microsoft Azure AI Fundamentals
 
-Segui o passo a passo disponível em: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html
+## 1. Passo a passo 
 
-## 1. Modelo de previsão
+https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html
+
+## 2. Modelo de previsão
 
 ![Modelo](./static/modelo.png)
 
-## 2. Métricas do modelo
+## 3. Métricas do modelo
 
-### 2.1. Predict vs True
+### 3.1. Predict vs True
 ![Predict vs True](./static/predicted_vs_true.png)
 
-### 2.2. Residuals
+### 3.2. Residuals
 ![Predict vs True](./static/residuals.png)
 
-## 3. Ponto de extremidade
+## 4. Ponto de extremidade
 
 ![Ponto de Extremidade](./static/ponto_de_extremidade.png)
 
-## 4. Realização de testes
+## 5. Realização de testes
 
-### 4.1. Entrada
+### 5.1. Entrada
 ```
 {
   "Inputs": { 
@@ -46,7 +48,7 @@ Segui o passo a passo disponível em: https://microsoftlearning.github.io/mslear
 }
 ```
 
-### 4.2. Saída
+### 5.2. Saída
 ```
 {
   "Results": [
