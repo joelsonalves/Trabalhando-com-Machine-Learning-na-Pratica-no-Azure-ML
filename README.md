@@ -7,6 +7,8 @@ Segui o passo a passo disponível em: https://microsoftlearning.github.io/mslear
 
 ## 2. Métricas do modelo
 
+![Predict vs True](./static/predicted_vs_true.png)
+
 ## 3. Configuramos o ponto de extremidade
 
 ## 4. Realização de testes
