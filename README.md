@@ -1,4 +1,4 @@
-# DIO - Bootcamp Microsoft Azure AI Fundamentals
+# DIO | Bootcamp Microsoft Azure AI Fundamentals
 
 # Trabalhando com Machine Learning na Prática no Azure ML
 
