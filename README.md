@@ -2,6 +2,10 @@
 
 # Trabalhando com Machine Learning na Prática no Azure ML
 
+https://portal.azure.com
+
+https://ml.azure.com
+
 ## 1. Passo a passo 
 
 https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html
